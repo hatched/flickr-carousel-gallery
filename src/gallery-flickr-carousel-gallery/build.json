@@ -1,0 +1,10 @@
+{
+    "name": "flickr-carousel-gallery",
+    "builds": {
+        "flickr-carousel-gallery": {
+            "jsfiles": [
+                "js/flickr-carousel-gallery.js"
+            ]
+        }
+    }
+}

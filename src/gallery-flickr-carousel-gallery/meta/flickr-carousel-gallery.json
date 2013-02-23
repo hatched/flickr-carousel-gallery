@@ -1,0 +1,8 @@
+{
+    "flickr-carousel-gallery": {
+        "requires": [
+            "base", "base-build", "jsonp", "event"
+        ],
+        "skinnable": false
+    }
+}
